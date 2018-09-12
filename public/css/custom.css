@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=Signika');
+
+.btn{
+    margin: 6px;
+    font-size:18px
+    
+}
+.navbar-nav{
+    padding:55px;
+    
+}
+img{
+    padding-top: 30px
+}
+span{
+    color: black;
+    font-size: 18px
+}
+b{
+    font-size: 18px
+}
+.dropdown{
+    padding: 12px
+}
+#footer{
+    background:whitesmoke
+}
+.list-inline-item{
+    padding:20px;
+    width: 100px;
+    font-size: 40px
+}
+.menu-item{
+    font-size: 18px;
+    width:120px
+}
+.copy{
+    font-size: 20px;
+    padding-top: 10px
+}
+#content{
+    background: #B0A9A7;
+    height:450px
+}
+.col-lg-5{
+    margin-top: 100px
+}
+.buttons{
+    margin-top: 35px
+}
+.btn-lg{
+    margin-right: 20px
+}
+.frm{
+    width:550px;
+    height:500px
+}
+
+
+  
+
+/*upload css*/
+ 
+ 
+
+/* 
+design */
+ .image
+{
+	width: 200px;
+}
+.picframes{
+	display: flex;
+	float: left;
+}
+.dsgn{
+	height: 300px;
+	width:300px;
+	margin-left:50px;
+	margin-right:50px;
+	
+	padding-left: 30px;
+
+}
+.chs{
+    padding-left: 200px
+}
+.upl{
+    max-width: 700px;
+    padding-top: 40px
+}
+.pad{
+    padding:50px;
+}
+.fle{
+    border: 1px solid black;
+    padding-bottom:30px;
+    background: rgb(201, 217, 241)  
+}
+.pym{
+    background: #B0A9A7
+
+}
+/* preview */
+.parent {
+    position: relative;
+  }
+  .image1 {
+      width:850px;
+      margin: 10px auto 0;
+     position: relative;
+  }
+  .image2 {
+    width: 500px;
+    height: 350px;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: -670px;
+  }
+  .prv{
+      height:800px
+  }
+  .crd{
+      color:rgb(19, 145, 196)
+  }
+  #sign-out{
+      font-size: 18px
+  }
+  input{
+      padding-left: 10px
+  }
+  .userName{
+      color: blue;
+
+  }
